@@ -12,3 +12,10 @@ Repositório de estudos do evento NLW Journey
 - 🛠️ DevOps
 - 🧠 IA
 - 🐹 GO
+
+
+# Estudos para o futuro:
+- **Injeção de Dependência**
+- **Programação Assincrona**
+- **AutoMapper**
+- **Inclusão do Projeto Domain**
